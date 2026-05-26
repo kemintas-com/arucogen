@@ -37,6 +37,12 @@ You can also try the hosted web version:
 https://kemintas.com/arucogen/
 ```
 
+Demo:
+
+```text
+https://kemintas-com.github.io/arucogen/
+```
+
 The hosted page is only a convenient public copy.
 This tool does not depend on that URL and can run locally from `index.html`.
 
@@ -51,6 +57,12 @@ This tool does not depend on that URL and can run locally from `index.html`.
 
 ```text
 https://kemintas.com/arucogen/
+```
+
+デモ:
+
+```text
+https://kemintas-com.github.io/arucogen/
 ```
 
 この公開ページは利便性のための公開コピーです。
