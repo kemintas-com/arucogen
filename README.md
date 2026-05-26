@@ -31,6 +31,18 @@ You can download the generated marker as an SVG or PNG file.
 
 生成したマーカーはSVGまたはPNGファイルとしてダウンロードできます。
 
+You can also try the hosted web version:
+
+https://kemintas.com/arucogen/
+
+The hosted page is only a convenient public copy. This tool does not depend on that URL and can run locally from `index.html`.
+
+公開中のWeb版でも試すことができます:
+
+https://kemintas.com/arucogen/
+
+この公開ページは利便性のための公開コピーです。このツールはURLに依存せず、`index.html` をローカルで開いても動作します。
+
 ## Dictionaries / 辞書データ
 
 This project includes predefined ArUco dictionary data derived from OpenCV.
