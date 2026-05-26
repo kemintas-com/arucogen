@@ -1,0 +1,11 @@
+This project includes predefined ArUco marker dictionary data derived from OpenCV.
+
+OpenCV 4.5.0 and later are licensed under the Apache License 2.0.
+
+The Apache License 2.0 text for the OpenCV-derived dictionary data is included in:
+
+  THIRD_PARTY_LICENSES/OpenCV-Apache-2.0.txt
+
+This project does not include OpenCV itself.
+
+The original code of this project is independently written and released under the MIT License.
